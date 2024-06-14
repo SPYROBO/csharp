@@ -1,0 +1,15 @@
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\bin\Debug\net8.0\Ejercicio 1.exe
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\bin\Debug\net8.0\Ejercicio 1.deps.json
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\bin\Debug\net8.0\Ejercicio 1.runtimeconfig.json
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\bin\Debug\net8.0\Ejercicio 1.dll
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\bin\Debug\net8.0\Ejercicio 1.pdb
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\obj\Debug\net8.0\Ejercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\obj\Debug\net8.0\Ejercicio 1.AssemblyInfoInputs.cache
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\obj\Debug\net8.0\Ejercicio 1.AssemblyInfo.cs
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\obj\Debug\net8.0\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\obj\Debug\net8.0\Ejercicio 1.sourcelink.json
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\obj\Debug\net8.0\Ejercicio 1.dll
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\obj\Debug\net8.0\refint\Ejercicio 1.dll
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\obj\Debug\net8.0\Ejercicio 1.pdb
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\obj\Debug\net8.0\Ejercicio 1.genruntimeconfig.cache
+C:\Users\Alumno\source\repos\alejandro_luna_5_11\Ejerc003\Ejercicio1\obj\Debug\net8.0\ref\Ejercicio 1.dll
