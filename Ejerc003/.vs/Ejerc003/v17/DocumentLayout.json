@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\alejandro_luna_5_11\\Ejerc003\\",
+  "WorkspaceRootPath": "C:\\Users\\Alumno\\source\\repos\\alejandro_5_11\\Ejerc003\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{85BEF721-8213-42FC-B190-137ECB67A1FD}|Ejercicio 3\\Ejercicio 3.csproj|c:\\users\\alumno\\source\\repos\\alejandro_luna_5_11\\ejerc003\\ejercicio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{85BEF721-8213-42FC-B190-137ECB67A1FD}|Ejercicio 3\\Ejercicio 3.csproj|c:\\users\\alumno\\source\\repos\\alejandro_5_11\\ejerc003\\ejercicio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{85BEF721-8213-42FC-B190-137ECB67A1FD}|Ejercicio 3\\Ejercicio 3.csproj|solutionrelative:ejercicio 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81BDE918-4CBF-4854-AA29-D2BB88E16197}|Ejercicio 2\\Ejercicio 2.csproj|c:\\users\\alumno\\source\\repos\\alejandro_luna_5_11\\ejerc003\\ejercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{81BDE918-4CBF-4854-AA29-D2BB88E16197}|Ejercicio 2\\Ejercicio 2.csproj|c:\\users\\alumno\\source\\repos\\alejandro_5_11\\ejerc003\\ejercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{81BDE918-4CBF-4854-AA29-D2BB88E16197}|Ejercicio 2\\Ejercicio 2.csproj|solutionrelative:ejercicio 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,9 +24,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\alejandro_luna_5_11\\Ejerc003\\Ejercicio 3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\alejandro_5_11\\Ejerc003\\Ejercicio 3\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio 3\\Program.cs",
-              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\alejandro_luna_5_11\\Ejerc003\\Ejercicio 3\\Program.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\alejandro_5_11\\Ejerc003\\Ejercicio 3\\Program.cs",
               "RelativeToolTip": "Ejercicio 3\\Program.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAABPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,14 +37,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\alejandro_luna_5_11\\Ejerc003\\Ejercicio 2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alumno\\source\\repos\\alejandro_5_11\\Ejerc003\\Ejercicio 2\\Program.cs",
               "RelativeDocumentMoniker": "Ejercicio 2\\Program.cs",
-              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\alejandro_luna_5_11\\Ejerc003\\Ejercicio 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Alumno\\source\\repos\\alejandro_5_11\\Ejerc003\\Ejercicio 2\\Program.cs",
               "RelativeToolTip": "Ejercicio 2\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T12:25:32.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T12:25:32.661Z"
             }
           ]
         }

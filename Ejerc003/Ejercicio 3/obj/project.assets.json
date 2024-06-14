@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alumno\\source\\repos\\alejandro_luna_5_11\\Ejerc003\\Ejercicio 3\\Ejercicio 3.csproj",
+      "projectUniqueName": "C:\\Users\\Alumno\\source\\repos\\alejandro_5_11\\Ejerc003\\Ejercicio 3\\Ejercicio 3.csproj",
       "projectName": "Ejercicio 3",
-      "projectPath": "C:\\Users\\Alumno\\source\\repos\\alejandro_luna_5_11\\Ejerc003\\Ejercicio 3\\Ejercicio 3.csproj",
+      "projectPath": "C:\\Users\\Alumno\\source\\repos\\alejandro_5_11\\Ejerc003\\Ejercicio 3\\Ejercicio 3.csproj",
       "packagesPath": "C:\\Users\\Alumno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alumno\\source\\repos\\alejandro_luna_5_11\\Ejerc003\\Ejercicio 3\\obj\\",
+      "outputPath": "C:\\Users\\Alumno\\source\\repos\\alejandro_5_11\\Ejerc003\\Ejercicio 3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alumno\\AppData\\Roaming\\NuGet\\NuGet.Config",
