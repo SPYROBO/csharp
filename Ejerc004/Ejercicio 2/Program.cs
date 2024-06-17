@@ -10,9 +10,6 @@ namespace Ejercicio_2
     {
         static void Main(string[] args)
         {
-            //Variables
-
-
             //Instanciación de la clase
             nariz objNariz = new nariz();
             nariz objNariz2 = new nariz();
