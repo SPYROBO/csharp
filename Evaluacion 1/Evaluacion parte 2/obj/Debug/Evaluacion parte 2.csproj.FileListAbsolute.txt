@@ -1,0 +1,7 @@
+C:\Users\Alumno\source\repos\alejandro_5_11\Evaluacion 1\Evaluacion parte 2\bin\Debug\Evaluacion parte 2.exe.config
+C:\Users\Alumno\source\repos\alejandro_5_11\Evaluacion 1\Evaluacion parte 2\bin\Debug\Evaluacion parte 2.exe
+C:\Users\Alumno\source\repos\alejandro_5_11\Evaluacion 1\Evaluacion parte 2\bin\Debug\Evaluacion parte 2.pdb
+C:\Users\Alumno\source\repos\alejandro_5_11\Evaluacion 1\Evaluacion parte 2\obj\Debug\Evaluacion parte 2.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\alejandro_5_11\Evaluacion 1\Evaluacion parte 2\obj\Debug\Evaluacion parte 2.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\alejandro_5_11\Evaluacion 1\Evaluacion parte 2\obj\Debug\Evaluacion parte 2.exe
+C:\Users\Alumno\source\repos\alejandro_5_11\Evaluacion 1\Evaluacion parte 2\obj\Debug\Evaluacion parte 2.pdb

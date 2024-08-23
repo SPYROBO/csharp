@@ -10,7 +10,7 @@ namespace Ejercicio_1
     {
         static void Main(string[] args)
         {
-            int[] peso;
+            int[] peso = new int[2];
             int[] promedio;
             int estacion1 = 0;
             int estacion2 = 0;
@@ -34,7 +34,7 @@ namespace Ejercicio_1
                     int kilos = Convert.ToInt32(Console.ReadLine());
                     info.peso_valijas += kilos;
                     total += info.peso_valijas;
-                    peso = new int[] {kilos};
+                    peso[1] = kilos;
                 }
                 promedio = new int[(info.peso_valijas / cant)];
                 info.peso_valijas = 0;

@@ -11,12 +11,21 @@ namespace Ejercicio_1
         static void Main(string[] args)
         {
             triangulo triangulo = new triangulo();
-            Console.WriteLine("Defina el lado 1");
-            triangulo.lado1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Defina el lado 2");
-            triangulo.lado2 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Defina el lado 3");
-            triangulo.lado3 = Convert.ToInt32(Console.ReadLine());
+            while (triangulo.lado1 == 0)
+            {
+                Console.WriteLine("Defina el lado 1 que sea mayor a cero");
+                triangulo.lado1 = Convert.ToInt32(Console.ReadLine());
+            }
+            while (triangulo.lado2 == 0)
+            {
+                Console.WriteLine("Defina el lado 2 que sea mayor a cero");
+                triangulo.lado2 = Convert.ToInt32(Console.ReadLine());
+            }
+            while (triangulo.lado3 == 0)
+            {
+                Console.WriteLine("Defina el lado 3 que sea mayor a cero");
+                triangulo.lado3 = Convert.ToInt32(Console.ReadLine());
+            }
             if (triangulo.lado1 == triangulo.lado2 && triangulo.lado2 == triangulo.lado3)
             {
                 triangulo.tipo("Equilátero");
@@ -85,7 +94,9 @@ namespace Ejercicio_1
             }
             public void super()
             {
-                Console.WriteLine("La superficie del triángulo es de: " + (lado1 + lado2 + lado3));
+                double s = (lado1 + lado2 + lado3) / 2;
+                double ar = (Math.Sqrt(s * (s - lado1) * (s - lado2) * (s - lado3)));
+                Console.WriteLine("El area del triangulo es de: " + ar);
             }
         }
     }
